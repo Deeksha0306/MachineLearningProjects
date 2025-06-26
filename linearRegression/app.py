@@ -9,7 +9,8 @@ model = joblib.load("linear_regression.pkl")
 st.title("House Price Prediction 🏢💵")
 
 # Introduction.
-st.markdown("Welcome to House Price Predictor\n Enter the house details below to estimate the price of the house.")
+st.markdown("Welcome to House Price Predictor using linear regression.\n " \
+"Enter the house details below to estimate the price of the house.")
 
 # INPUT FIELDS.
 
