@@ -84,4 +84,4 @@ if st.button("Predict Price"):
     st.success(f"💸 Estimated House Price: **${predicted_price:,.2f}**")
 
 st.markdown("---")
-st.markdown("Made with ❤️ by Deeksha during Internship")
+
