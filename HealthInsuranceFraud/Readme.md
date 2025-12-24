@@ -4,17 +4,9 @@
 Healthcare insurance fraud results in substantial financial losses each year. Manual fraud detection processes are time-consuming, inconsistent and prone to error, making automated and scalable solutions essential.
 
 ## Solution Provided: 
-This project formulates fraud detection as a binary classification problem, where insurance claims are classified as fraudulent or non-fraudulent. A Logistic Regression model is used as the baseline. To improve performance, a Random Forest Classifier is trained, achieving an accuracy of ____ and a recall of ____, with particular emphasis on recall due to the importance of correctly identifying fraudulent claims.
+This project formulates fraud detection as a binary classification problem, where insurance claims are classified as fraudulent or non-fraudulent. A Logistic Regression model is used as the baseline. To improve performance, a Random Forest Classifier is trained, achieving an accuracy of 90% and a recall of 82%, with particular emphasis on recall due to the importance of correctly identifying fraudulent claims.
 
 ## Dataset link: https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis
-
-This project focuses on detecting fraudulent healthcare insurance claims using machine learning techniques.  The goal is to identify suspicious claims and reduce financial losses.
-
-Problem Statement: Insurance fraud leads to significant financial losses each year. Manual detection is slow and error-prone, 
-making automated fraud detection essential.
-
-This is a classification system that classifies whether a healthcare insurance is fraud or not.
-The baseline model is based on Logistic Regression algorithm, after that I have trained a Random Forest Classifier model that gives accuracy of 90% and recall of 82%.
 
 ## Tech Stack:
     1. Python
